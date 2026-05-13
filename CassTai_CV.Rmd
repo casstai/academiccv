@@ -65,7 +65,7 @@ Communication.” [__with graduate students__] *Workshop Proceedings of the 19th
 * __Public Opinion and Measurement__
   - 11. __Tai, Yuehong Cassandra__ and Frederick Solt. 2026. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022” *Accepted at Political Studies*.
   - 10. Hu, Yue, __Yuehong Cassandra Tai__, and Frederick Solt. 2026. “Data Wrangling Before Harmonization: Best Practices for Getting Past the ‘Janitor Work.’” *Accepted at PS: Political Science & Politics*.
-  - 9. Ma, Haofeng, Jeongho Choi, __Yuehong Cassandra Tai__, Yue Hu, and Frederick Solt. “Macrodiscontent Across Countries” *Accepted at European Political Science Review*
+  - 9. Ma, Haofeng, Jeongho Choi, __Yuehong Cassandra Tai__, Yue Hu, and Frederick Solt. 2026. “Macrodiscontent Across Countries” *Accepted at European Political Science Review*
   - 8. __Tai, Yuehong Cassandra__. 2026. “Introducing the Trust in Government (TrustGov) Dataset: A New Resource for Cross-National Time-Series Trust Research” *Research & Politics*.
   - 7. __Tai, Yuehong Cassandra__. 2025. “The Upsides and Downsides of Generalized Trust: The Mediating Effect of Democratic Institutions.” *International Journal of Public Opinion Research*.
   - 6. Hu, Yue, __Yuehong Cassandra Tai__, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2025. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” *Research & Politics*.
