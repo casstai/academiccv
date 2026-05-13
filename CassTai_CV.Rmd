@@ -53,18 +53,19 @@ urlcolor: blue
 # PUBLICATIONS
 
 * __AI and Computational Social Science__
-  - 17. __Tai, Yuehong Cassandra__, Yu-Ru Lin, and Bruce A. Desmarais. 2026. “Public Oﬀicials’ Online Sharing of Misinformation: Institutional and Ideological Checks.”  *Political Communication*.
-  - 16.  Yu, Dong Erico, and __Yuehong Cassandra Tai__. 2026. “Speak ‘As Good As Men’? An Empirical Study of Gender Variation in Chinese Courtroom Audio” *Accepted at Political Studies Review*.
-  - 15. __Tai, Yuehong Cassandra__, Nitheesha Nakka, Khushi Navin Patni, Sarah Rajtmajer, Kevin Munger, Yu-Ru Lin, and Bruce A. Desmarais. 2025. “The Digitally Accountable Public Representation Database: Measuring Online Communication by Federal, State, and Local Oﬀicials.”  *Nature Scientific Data*.
-  - 14. __Tai, Yuehong Cassandra__, Khushi Navin Patni, Nicholas Daniel Hemauer, Bruce A. Desmarais, and Yu-Ru Lin. 2025. “GenAI vs. Human Fact-Checkers: Accurate Ratings, Flawed Rationales.” In *Proceedings of the 17th ACM Web Science Conference 2025*.
-  - 13. Nakka, Nitheesha, Issac Pollert, Lingyu Fuca, and __Yuehong Cassandra Tai__. 2025. “Navigating Hate and Anti-Hate Speech: Bridging Large Language Model and Human Expertise in Public Oﬀicials’ Online
+  - 18. __Tai, Yuehong Cassandra__, Yu-Ru Lin, and Bruce A. Desmarais. 2026. “Public Oﬀicials’ Online Sharing of Misinformation: Institutional and Ideological Checks.”  *Political Communication*.
+  - 17.  Yu, Dong Erico, and __Yuehong Cassandra Tai__. 2026. “Speak ‘As Good As Men’? An Empirical Study of Gender Variation in Chinese Courtroom Audio” *Accepted at Political Studies Review*.
+  - 16. __Tai, Yuehong Cassandra__, Nitheesha Nakka, Khushi Navin Patni, Sarah Rajtmajer, Kevin Munger, Yu-Ru Lin, and Bruce A. Desmarais. 2025. “The Digitally Accountable Public Representation Database: Measuring Online Communication by Federal, State, and Local Oﬀicials.”  *Nature Scientific Data*.
+  - 15. __Tai, Yuehong Cassandra__, Khushi Navin Patni, Nicholas Daniel Hemauer, Bruce A. Desmarais, and Yu-Ru Lin. 2025. “GenAI vs. Human Fact-Checkers: Accurate Ratings, Flawed Rationales.” In *Proceedings of the 17th ACM Web Science Conference 2025*.
+  - 14. Nakka, Nitheesha, Issac Pollert, Lingyu Fuca, and __Yuehong Cassandra Tai__. 2025. “Navigating Hate and Anti-Hate Speech: Bridging Large Language Model and Human Expertise in Public Oﬀicials’ Online
 Communication.” [__with graduate students__] *Workshop Proceedings of the 19th International AAAI Conference on Web and Social Media.*
-  - 12. Biswas, Ahana, Yu-Ru Lin, __Yuehong Cassandra Tai__ and Bruce A. Desmarais. 2025. “Political Elites in the Attention Economy: Visibility Over Civility and Credibility?” In *Proceedings of the International AAAI Conference on Web and Social Media.*
-  - 11. __Tai, Yuehong Cassandra__, Roan Buma and Bruce A. Desmarais. 2023. “Oﬀicial Yet Questionable: Examining Misinformation in U.S. State Legislators’ Tweets.” *Journal of Information Technology & Politics*.
+  - 13. Biswas, Ahana, Yu-Ru Lin, __Yuehong Cassandra Tai__ and Bruce A. Desmarais. 2025. “Political Elites in the Attention Economy: Visibility Over Civility and Credibility?” In *Proceedings of the International AAAI Conference on Web and Social Media.*
+  - 12. __Tai, Yuehong Cassandra__, Roan Buma and Bruce A. Desmarais. 2023. “Oﬀicial Yet Questionable: Examining Misinformation in U.S. State Legislators’ Tweets.” *Journal of Information Technology & Politics*.
 
 * __Public Opinion and Measurement__
-  - 10. __Tai, Yuehong Cassandra__ and Frederick Solt. 2026. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022” *Accepted at Political Studies*.
-  - 9. Hu, Yue, __Yuehong Cassandra Tai__, and Frederick Solt. 2026. “Data Wrangling Before Harmonization: Best Practices for Getting Past the ‘Janitor Work.’” *Accepted at PS: Political Science & Politics*.
+  - 11. __Tai, Yuehong Cassandra__ and Frederick Solt. 2026. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022” *Accepted at Political Studies*.
+  - 10. Hu, Yue, __Yuehong Cassandra Tai__, and Frederick Solt. 2026. “Data Wrangling Before Harmonization: Best Practices for Getting Past the ‘Janitor Work.’” *Accepted at PS: Political Science & Politics*.
+  - 9. Ma, Haofeng, Jeongho Choi, __Yuehong Cassandra Tai__, Yue Hu, and Frederick Solt. “Macrodiscontent Across Countries” *Accepted at European Political Science Review*
   - 8. __Tai, Yuehong Cassandra__. 2026. “Introducing the Trust in Government (TrustGov) Dataset: A New Resource for Cross-National Time-Series Trust Research” *Research & Politics*.
   - 7. __Tai, Yuehong Cassandra__. 2025. “The Upsides and Downsides of Generalized Trust: The Mediating Effect of Democratic Institutions.” *International Journal of Public Opinion Research*.
   - 6. Hu, Yue, __Yuehong Cassandra Tai__, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2025. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” *Research & Politics*.
@@ -80,9 +81,8 @@ Communication.” [__with graduate students__] *Workshop Proceedings of the 19th
 - Center for Socially Responsible Artificial Intelligence, “Transparent and Reproducible AI-assisted Annotation for Social Data: A Multi-Agent framework,” effective Dec 20, 2025 and expires June 30, 2027. Co-PI, Qunhua Li. $25,000.
 
 # WORKING PAPERS
-  - 3.  Ko, Hyein, __Yuehong Cassandra Tai__, and Nora Webb Williams "From Annotation to Oversight: A Pipeline Approach to GenAI Evaluation" [__Co–lead Author__] [__Under Review__]
-  - 2. __Tai, Yuehong Cassandra__, Xun Cao, Yu-Ru Lin, and Bruce A. Desmarais. “Where Legislators Speak Changes What They Say: Platform Conditions Climate Attention and Framing” [__Under Review__]
-  - 1. Ma, Haofeng, Jeongho Choi, __Yuehong Cassandra Tai__, Yue Hu, and Frederick Solt. “Macrodiscontent Across Countries” [__Revised & Resubmitted__]
+  - 2.  Ko, Hyein, __Yuehong Cassandra Tai__, and Nora Webb Williams "From Annotation to Oversight: A Pipeline Approach to GenAI Evaluation" [__Co–lead Author__] [__Under Review__]
+  - 1. __Tai, Yuehong Cassandra__, Xun Cao, Yu-Ru Lin, and Bruce A. Desmarais. “Where Legislators Speak Changes What They Say: Platform Conditions Climate Attention and Framing” [__Under Review__]
 
 # WORKS IN PROGRESS 
 * __AI and Computational Social Science__
