@@ -81,12 +81,12 @@ Communication.” [__with graduate students__] *Workshop Proceedings of the 19th
 - Center for Socially Responsible Artificial Intelligence, “Transparent and Reproducible AI-assisted Annotation for Social Data: A Multi-Agent framework,” effective Dec 20, 2025 and expires June 30, 2027. Co-PI, Qunhua Li. $25,000.
 
 # WORKING PAPERS
-  - 2.  Ko, Hyein, __Yuehong Cassandra Tai__, and Nora Webb Williams "From Annotation to Oversight: A Pipeline Approach to GenAI Evaluation" [__Co–lead Author__] [__Under Review__]
+  - 2.  Ko, Hyein, __Yuehong Cassandra Tai__, and Nora Webb Williams "Can We Trust LLM-Generated Data? The CRAFT Framework for Measurement and Inference in Political Science" [__Co–lead Author__] [__Under Review__]
   - 1. __Tai, Yuehong Cassandra__, Xun Cao, Yu-Ru Lin, and Bruce A. Desmarais. “Where Legislators Speak Changes What They Say: Platform Conditions Climate Attention and Framing” [__Under Review__]
 
 # WORKS IN PROGRESS 
 * __AI and Computational Social Science__
-   - 6. "Traceable Codebook-Grounded Annotation with Large Language Models" (Qunhua Li)
+   - 6. "When F1 Lies: Taking Constructs Seriously in AI-Assisted Measurement" (Qunhua Li)
    - 5. "Who Speaks for AI? Local News Papers and AI Policy News Frames" (with Hyein Ko)
    - 4. “Understanding Asian Hate in State Legislatures: An Electoral Connection” (with Issac Michael Pollert, Nitheesha Nakka, and Lingyu Jack Fuca) [__Lead Author__]
    - 3. “Large Language Models in Social Science: A Literature Review of LLMs and GenAI in Political Science and Communication” (with Pooja Iyer)
@@ -95,6 +95,8 @@ Communication.” [__with graduate students__] *Workshop Proceedings of the 19th
    + 1. “Surfing Waves or Making Waves? Declining Trust in Democracy and Election of Personalist Leaders” (with Jia Li and M. Rosemary Pang) 
 
 # CONFERENCE PRESENTATIONS
+- "When F1 Lies: Taking Constructs Seriously in AI-Assisted Measurement"
+  - AI for Social Science Research Methods, Yale \hfill May 2026
 - "Who Speaks for AI? Local News Papers and AI Policy News Frames"
   - Midwest Political Science Association Conference \hfill April 2026
 - "From Annotation to Oversight: A Pipeline Approach to GenAI Evaluation"

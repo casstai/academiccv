@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.2.9)  13 MAY 2026 14:31
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.2.9)  28 MAY 2026 22:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -263,7 +263,7 @@ LaTeX Encoding Info:    Redeclaring text command \aa (encoding TU) on input line
 LaTeX Encoding Info:    Redeclaring text command \textrhookopeno (encoding TU) on input line 3119.
 LaTeX Encoding Info:    Redeclaring text command \textaolig (encoding TU) on input line 3729.
 ) (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2025/07/09 v3.2b Micro-typographical refinements (RS)
+Package: microtype 2026/03/01 v3.2d Micro-typographical refinements (RS)
 (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count317
@@ -271,24 +271,24 @@ Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \MT@toks=\toks28
 \MT@tempbox=\box105
 \MT@count=\count318
-LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
-LaTeX Info: Redefining \leftprotrusion on input line 1088.
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1084.
+LaTeX Info: Redefining \leftprotrusion on input line 1085.
 \MT@prot@toks=\toks29
-LaTeX Info: Redefining \rightprotrusion on input line 1107.
+LaTeX Info: Redefining \rightprotrusion on input line 1104.
 LaTeX Info: Redefining \textls on input line 1449.
 \MT@outer@kern=\dimen173
 LaTeX Info: Redefining \microtypecontext on input line 2053.
 LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
 \MT@listname@count=\count319
 (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtype-xetex.def
-File: microtype-xetex.def 2025/07/09 v3.2b Definitions specific to xetex (RS)
+File: microtype-xetex.def 2026/03/01 v3.2d Definitions specific to xetex (RS)
 LaTeX Info: Redefining \lsstyle on input line 443.
 LaTeX Info: Redefining \lslig on input line 451.
 \MT@outer@space=\skip56
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2025/07/09 v3.2b microtype main configuration file (RS)
+File: microtype.cfg 2026/03/01 v3.2d microtype main configuration file (RS)
 )
 LaTeX Info: Redefining \microtypesetup on input line 3065.
 ) (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
@@ -1734,9 +1734,7 @@ LaTeX Info: Redefining \microtypecontext on input line 117.
 Package microtype Info: Applying patch `item' on input line 117.
 Package microtype Info: Applying patch `toc' on input line 117.
 Package microtype Info: Applying patch `eqnum' on input line 117.
-
-Package microtype Warning: Unable to apply patch `footnote' on input line 117.
-
+Package microtype Info: Applying patch `footnote' on input line 117.
 Package microtype Info: Applying patch `verbatim' on input line 117.
 LaTeX Info: Redefining \microtypesetup on input line 117.
 Package microtype Info: Character protrusion enabled (level 2).
@@ -1745,7 +1743,7 @@ Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
 (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg
-File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Modern Roman (RS)
+File: mt-LatinModernRoman.cfg 2026/02/26 v1.2 microtype config. file: Latin Modern Roman (RS)
 )
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1881,7 +1879,7 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 5.21004pt on input line 132.
 [1
 
-] [2] [3] [4] [5] [6] [7] 
+] [2] [3] [4] [5] [6] [7] [8] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./CassTai_CV.aux)
  ***********
@@ -1892,12 +1890,12 @@ Package rerunfilecheck Info: File `CassTai_CV.out' has not changed.
 (rerunfilecheck)             Checksum: 6180AD18DB1589D48B05E508A6E723E6;1718.
  ) 
 Here is how much of TeX's memory you used:
- 24061 strings out of 470190
- 471127 string characters out of 5477853
- 912090 words of memory out of 5000000
- 52299 multiletter control sequences out of 15000+600000
+ 24064 strings out of 470190
+ 471206 string characters out of 5477853
+ 912142 words of memory out of 5000000
+ 52302 multiletter control sequences out of 15000+600000
  637249 words of font info for 98 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  88i,11n,134p,1199b,696s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on CassTai_CV.pdf (7 pages).
+Output written on CassTai_CV.pdf (8 pages).
